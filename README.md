@@ -3,7 +3,7 @@
 
 ## Schedule and Syllabus 
 | Date |	Description	 |Course Materials |
-| ------ | ------ | ------  |
+| ------------ | ------------ | ------------  |
 |  |  | [[syllabus](https://www.overleaf.com/)] |
 | Sep 26 (Th) | **introduction** | [[slides](https://www.overleaf.com/read/kzsdqspjvpzk)]|
 | Oct 1 (Tu) | **preprocessing** -- *tokenization* |  Suggested Readings:  <ul><li>[[Moses - Baseline system, corpus preparation](http://www.statmt.org/moses/?n=Moses.Baseline)]</li><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul> [[slides](https://www.overleaf.com/)] [HW1]|
