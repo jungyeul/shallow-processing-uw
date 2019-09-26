@@ -1,5 +1,6 @@
 # UW LIN570 (Fall 2019), shallow processing 
 
+https://github.com/jungyeul/shallow-processing-uw
 
 ## Schedule and Syllabus 
 | Date |	Description	 |Course Materials |
