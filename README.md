@@ -29,4 +29,7 @@ https://github.com/jungyeul/shallow-processing-uw
 | Nov 28 (Th) | **Thanksgiving Day**  |   |
 | Dec 3 (Tu) |  |  [HW10]  |
 | Dec 5 (Th) |  |   |
-
+|  | **language models**  | |
+|  | **pos tagging**  | |
+|  | **information extraction**  | |
+|  | **machine translation**  | |
