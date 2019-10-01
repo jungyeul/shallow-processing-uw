@@ -7,8 +7,8 @@ https://github.com/jungyeul/shallow-processing-uw
 | ------------ | ------------ | ------------  |
 |  |  | [[course policy](https://drive.google.com/open?id=1Q0ddg8ZU0IRxa9HorTTKfnqrfg_KcUpd)] |
 | Sep 26 (Th) | **introduction** | [[slides](https://www.overleaf.com/read/zdcvpbszggkq)]|
-| Oct 1 (Tu) | **preprocessing** -- *tokenization* & *sentence boundary detection* |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li><li>[[Sentence Boundary Detection and the Problem with the U.S.](http://aclweb.org/anthology/N/N09/N09-2061.pdf)]</li><li>[[Sentence Boundary Detection: A Long Solved Problem?](http://aclweb.org/anthology/C/C12/C12-2096.pdf)]</li></ul> [[slides](https://www.overleaf.com/read/jdgvkvxxhvbx)] [[HW1](https://www.overleaf.com/read/zvhzvbsfbbtf)]|
-| Oct 3 (Th) |   |  |
+| Oct 1 (Tu) | **preprocessing** -- *tokenization*  |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul> [[slides](https://www.overleaf.com/read/jdgvkvxxhvbx)] [[HW1](https://www.overleaf.com/read/zvhzvbsfbbtf)]|
+| Oct 3 (Th) | **preprocessing** -- *sentence boundary detection*   |   Suggested Readings:  <ul><li>[[Sentence Boundary Detection and the Problem with the U.S.](http://aclweb.org/anthology/N/N09/N09-2061.pdf)]</li><li>[[Sentence Boundary Detection: A Long Solved Problem?](http://aclweb.org/anthology/C/C12/C12-2096.pdf)]</li></ul> [slides] [HW2]|
 | Oct 8 (Tu) |  |  [HW2] |
 | Oct 10 (Th) |  |   |
 | Oct 15 (Tu) |  | [HW3] |
