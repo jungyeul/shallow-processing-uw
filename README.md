@@ -12,8 +12,8 @@ https://github.com/jungyeul/shallow-processing-uw
 | Oct 3 (Th) | *sentence boundary detection*   |   Suggested Readings:  <ul><li>[[Sentence Boundary Detection and the Problem with the U.S.](http://aclweb.org/anthology/N/N09/N09-2061.pdf)]</li><li>[[Sentence Boundary Detection: A Long Solved Problem?](http://aclweb.org/anthology/C/C12/C12-2096.pdf)]</li></ul> [[slides](https://www.overleaf.com/read/nqmdhrfvsfnw)] [[HW2](https://www.overleaf.com/read/hpddrmcpqfkb), due Oct 15]|
 |  | **morphology**  | |
 | Oct 8 (Tu) | *automata and transducers* |   |
-| Oct 10 (Th) | *morphological segmentation*  | [HW3, due Oct 22]  |
-| Oct 15 (Tu) | *morphological paradigm* | [HW4, due Oct 29] |
+| Oct 10 (Th) | *morphological segmentation*  | Suggested Readings:  <ul><li>[[Empirical Methods for Compound Splitting](http://www.aclweb.org/anthology/E03-1076)]</li> <li>[[Unsupervised Discovery of Morphemes](http://aclweb.org/anthology/W02-0603)]</li></ul> [slides] [HW3, due Oct 22]  |
+| Oct 15 (Tu) | *morphological paradigm* | Suggested Readings:  <ul><li>[[Supervised Learning of Complete Morphological Paradigms](https://www.aclweb.org/anthology/N13-1138)]</li></ul> [slides] [HW4, due Oct 29] |
 |  | **language models**  | |
 | Oct 17 (Th) |  |   |
 | Oct 22 (Tu) |  |   |
