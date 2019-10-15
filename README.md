@@ -1,6 +1,7 @@
 # UW LIN570 (Fall 2019), shallow processing 
 
 https://github.com/jungyeul/shallow-processing-uw
+[Syllabus(https://www.overleaf.com/read/xvnxwrgqrpzt)]
 
 ## Schedule
 | Date |	Description	 |Course Materials |
@@ -33,5 +34,4 @@ https://github.com/jungyeul/shallow-processing-uw
 |  | **information extraction**  | |
 |  | **machine translation**  | |
 
-## Syllabus 
-[(https://www.overleaf.com/read/xvnxwrgqrpzt)]
+
