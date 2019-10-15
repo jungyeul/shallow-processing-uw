@@ -2,7 +2,7 @@
 
 https://github.com/jungyeul/shallow-processing-uw
 
-## Schedule and Syllabus 
+## Schedule
 | Date |	Description	 |Course Materials |
 | ------------ | ------------ | ------------  |
 |  |  | [[course policy](https://drive.google.com/open?id=1Q0ddg8ZU0IRxa9HorTTKfnqrfg_KcUpd)] |
@@ -32,3 +32,6 @@ https://github.com/jungyeul/shallow-processing-uw
 |  | **pos tagging**  | |
 |  | **information extraction**  | |
 |  | **machine translation**  | |
+
+## Syllabus 
+[(https://www.overleaf.com/read/xvnxwrgqrpzt)]
