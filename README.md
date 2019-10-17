@@ -17,6 +17,7 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 |  | **language models**  | |
 | Oct 22 (Tu) |  |   |
 | Oct 24 (Th) |  |  |
+|  | **pos tagging & sequence labeling algorithms**  | |
 | Oct 29 (Tu) |  |   |
 | Oct 31 (Th) |  |   |
 | Nov 5 (Tu) |  |    |
@@ -29,7 +30,6 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | Nov 28 (Th) | **Thanksgiving Day**  |   |
 | Dec 3 (Tu) |  |    |
 | Dec 5 (Th) |  |   |
-|  | **pos tagging**  | |
 |  | **information extraction**  | |
 |  | **machine translation**  | |
 
