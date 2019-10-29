@@ -21,11 +21,11 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | Oct 31, Nov 5 | classification | [slides] [HW7]  |
 | Nov 7, 12, 14 | hmm pos tagging | [slides] [HW8] [HW9]  |
 | Nov 19 (Tu) | maxent pos tagging | [slides]   |
-|  | **information extraction**  | |
+|  | **machine translation**  | |
 | Nov 21 (Th) |  |   |
 | Nov 26 (Tu) |  |    |
 | Nov 28 (Th) | **Thanksgiving Day**  |   |
-|  | **machine translation**  | |
+|  | **basic NN**  | |
 | Dec 3 (Tu) |  |    |
 | Dec 5 (Th) |  |   |
 
