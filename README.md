@@ -18,7 +18,7 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | Oct 22, 29 | **language models** |  [[slides](https://www.overleaf.com/read/zhyvywqkmfpw)] [[HW6](https://www.overleaf.com/read/npkzqnzjtscg), due Nov 12] |
 |  | **pos tagging & sequence labeling algorithms**  | |
 | Oct 29 (Tu) | morphosyntax in nlp |  [slides] |
-| Oct 31, Nov 5 | classification | [slides] [HW7]  |
+| Oct 31, Nov 5 | classification and mallet | [slides] [HW7]  |
 | Nov 7, 12, 14 | hmm pos tagging | [slides] [HW8] [HW9]  |
 | Nov 19 (Tu) | maxent pos tagging | [slides]   |
 |  | **machine translation**  | |
