@@ -23,7 +23,7 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | Nov 21 (Th)  | *maxent pos tagging* | Suggested Readings:  <ul><li> </li></ul> [slides]   |
 |  | **machine translation**  | |
 | Nov 26 (Tu) |  |    |
-| Nov 28 (Th) | ------ | thanksgiving Day  |
+| Nov 28 (Th) | ------ | thanksgiving day  |
 | Dec 3 (Tu) |  |    |
 | Dec 5 (Th) | **basic NN** and **recap2** |[slides] |
 
