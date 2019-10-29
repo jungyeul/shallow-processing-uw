@@ -17,16 +17,15 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | Oct 24 (Th) | **recap 1** | [[slides](https://www.overleaf.com/read/nwqzyqzscyct)]|
 | Oct 22, 29 | **language models** |  [[slides](https://www.overleaf.com/read/zhyvywqkmfpw)] [[HW6](https://www.overleaf.com/read/npkzqnzjtscg), due Nov 12] |
 |  | **pos tagging & sequence labeling algorithms**  | |
-| Oct 29 (Tu) | morphosyntax in nlp |  [slides] |
-| Oct 31, Nov 5 | classification and mallet | [slides] [HW7]  |
-| Nov 7, 12, 14 | hmm pos tagging | [slides] [HW8] [HW9]  |
-| Nov 19 (Tu) | maxent pos tagging | [slides]   |
+| Oct 31 (Th) | morphosyntax in nlp |  [slides] |
+| Nov 5,7 | classification and mallet | [slides] [HW7]  |
+| Nov 12, 14,19 | hmm pos tagging | [slides] [HW8] [HW9]  |
+| Nov 21 (Th)  | maxent pos tagging | [slides]   |
 |  | **machine translation**  | |
-| Nov 21 (Th) |  |   |
 | Nov 26 (Tu) |  |    |
 | Nov 28 (Th) |  | *Thanksgiving Day*  |
-|  | **basic NN**  | |
 | Dec 3 (Tu) |  |    |
+|  | **basic NN**  | |
 | Dec 5 (Th) |  |   |
 
 
