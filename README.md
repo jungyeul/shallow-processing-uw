@@ -18,7 +18,7 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | Oct 22, 29 | **language models** |  [[slides](https://www.overleaf.com/read/zhyvywqkmfpw)] [[HW6](https://www.overleaf.com/read/npkzqnzjtscg), due Nov 12] |
 |  | **pos tagging & sequence labeling algorithms**  | |
 | Oct 31 (Th) | morphosyntax in nlp |  Suggested Readings:  <ul><li>[[Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf), Chap.8 in SLP (3rd ed.)]</li>  <li>[[Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/), CoNLL-2000 Shared Task]</li> <li>[[Language-Independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/), CoNLL-2003 Shared Task]</li><li>[[Semantic Role Labeling](http://www.lsi.upc.edu/~srlconll/), CoNLL-2004 and CoNLL-2005 Shared Tasks]</li> </ul>[slides] |
-| Nov 5,7 | classification and mallet | [slides] [HW7]  |
+| Nov 5,7 | classification and mallet | Suggested Readings:  <ul><li>[[MAchine Learning for LanguagE Toolkit](http://mallet.cs.umass.edu)]</li> </ul> [slides] [HW7]  |
 | Nov 12, 14,19 | hmm pos tagging | <ul><li>[[A Tutorial on HMMs](https://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf)]</li><li>[[TnT - Statistical Part-of-Speech Tagging](http://www.coli.uni-saarland.de/~thorsten/tnt/)]</li></ul> [slides] [HW8] [HW9]  |
 | Nov 21 (Th)  | maxent pos tagging | [slides]   |
 |  | **machine translation**  | |
