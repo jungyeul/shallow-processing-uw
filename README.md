@@ -24,7 +24,7 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 |  | **machine translation**  | |
 | Nov 21 (Th) |  |   |
 | Nov 26 (Tu) |  |    |
-| Nov 28 (Th) | **Thanksgiving Day**  |   |
+| Nov 28 (Th) |  | *Thanksgiving Day*  |
 |  | **basic NN**  | |
 | Dec 3 (Tu) |  |    |
 | Dec 5 (Th) |  |   |
