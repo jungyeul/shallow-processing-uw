@@ -21,14 +21,12 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | Nov 5 (Tu) | *classification* | [slides]  |
 | Nov 7 (Th) | *mallet* | Suggested Readings:  <ul><li>[[MAchine Learning for LanguagE Toolkit](http://mallet.cs.umass.edu)]</li> </ul> [slides] [HW7]  |
 | Nov 12, 14,19 | *hmm pos tagging* | Suggested Readings:  <ul><li>[[A Tutorial on HMMs](https://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf)]</li><li>[[TnT - Statistical Part-of-Speech Tagging](http://www.coli.uni-saarland.de/~thorsten/tnt/)]</li></ul> [slides] [HW8] [HW9]  |
-| Nov 21 (Th)  | *maxent pos tagging* | Suggested Readings:  <ul><li>[[A Maximum Entropy Model for Part-Of-Speech Tagging
-](https://www.aclweb.org/anthology/W96-0213/)] </li></ul> [slides]   |
+| Nov 21 (Th)  | *maxent pos tagging* | Suggested Readings:  <ul><li>[[A Maximum Entropy Model for Part-Of-Speech Tagging](https://www.aclweb.org/anthology/W96-0213/)] </li></ul> [slides] [HW10]  |
 |  | **machine translation**  | |
-| Nov 26 (Tu) |  |    |
-| Nov 28 (Th) | ------ | thanksgiving day  |
-| Dec 3 (Tu) |  |    |
+| Nov 26 (Tu), Dec 3 (Tu) | *document and word alignments*  | Suggested Readings:  <ul><li>[[A Program for Aligning Sentences in Bilingual Corpora](http://www.aclweb.org/anthology/J93-1004)]</li><li>[[The Mathematics of Statistical Machine Translation](http://www.aclweb.org/anthology/J93-2003)]</li></ul> [slides] [HW11]   |
 | Dec 5 (Th) | **recap2** |[slides] |
 
+No class on Nov 28 (Th), thanksgiving day
 
 
 
