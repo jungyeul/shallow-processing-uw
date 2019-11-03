@@ -21,7 +21,8 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | Nov 5 (Tu) | *classification* | [slides]  |
 | Nov 7 (Th) | *mallet* | Suggested Readings:  <ul><li>[[MAchine Learning for LanguagE Toolkit](http://mallet.cs.umass.edu)]</li> </ul> [slides] [HW7]  |
 | Nov 12, 14,19 | *hmm pos tagging* | Suggested Readings:  <ul><li>[[A Tutorial on HMMs](https://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf)]</li><li>[[TnT - Statistical Part-of-Speech Tagging](http://www.coli.uni-saarland.de/~thorsten/tnt/)]</li></ul> [slides] [HW8] [HW9]  |
-| Nov 21 (Th)  | *maxent pos tagging* | Suggested Readings:  <ul><li> </li></ul> [slides]   |
+| Nov 21 (Th)  | *maxent pos tagging* | Suggested Readings:  <ul><li>[[A Maximum Entropy Model for Part-Of-Speech Tagging
+](https://www.aclweb.org/anthology/W96-0213/)] </li></ul> [slides]   |
 |  | **machine translation**  | |
 | Nov 26 (Tu) |  |    |
 | Nov 28 (Th) | ------ | thanksgiving day  |
