@@ -34,4 +34,4 @@ No class on Nov 28 (Th), thanksgiving day
 2:30-3:30PM on Tuesday and Thursday (418A, Guggenheim Hall)
 
 ## TA
-Ajda Gokcen <ajdag _at_ uw.edu>
+Ajda Gokcen *ajdag _at_ uw.edu*
