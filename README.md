@@ -18,8 +18,8 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | Oct 22, 29 | **language models** |  [[slides](https://www.overleaf.com/read/zhyvywqkmfpw)] [[HW6](https://www.overleaf.com/read/npkzqnzjtscg), due Nov 12] [[HW6 explained](https://www.overleaf.com/read/qwnshgygcmhb)]|
 |  | **pos tagging & sequence labeling algorithms**  | |
 | Oct 31 (Th) | *morphosyntax tasks in nlp* |  Suggested Readings:  <ul><li>[[Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf), Chap.8 in SLP (3rd ed.)]</li>  <li>[[Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/), CoNLL-2000 Shared Task]</li> <li>[[Language-Independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/), CoNLL-2003 Shared Task]</li><li>[[Semantic Role Labeling](http://www.lsi.upc.edu/~srlconll/), CoNLL-2004 and CoNLL-2005 Shared Tasks]</li> </ul>[[slides](https://www.overleaf.com/read/fywzsvzvwvff)] |
-| Nov 5 (Tu) | *classification* | [slides]  |
-| Nov 7 (Th) | *mallet* | Suggested Readings:  <ul><li>[[MAchine Learning for LanguagE Toolkit](http://mallet.cs.umass.edu)]</li> </ul> [slides] [HW7]  |
+| Nov 5 (Tu) | *classification* | [[slides](https://www.overleaf.com/read/fgbfgqsptddd)]  |
+| Nov 7 (Th) | *mallet* | Suggested Readings:  <ul><li>[[MAchine Learning for LanguagE Toolkit](http://mallet.cs.umass.edu)]</li> </ul> [[slides](https://www.overleaf.com/read/cvnjvbbhcqvx)] [HW7]  |
 | Nov 12, 14,19 | *hmm pos tagging* | Suggested Readings:  <ul><li>[[A Tutorial on HMMs](https://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf)]</li><li>[[TnT - Statistical Part-of-Speech Tagging](http://www.coli.uni-saarland.de/~thorsten/tnt/)]</li></ul> [slides] [HW8] [HW9]  |
 | Nov 21 (Th)  | *maxent pos tagging* | Suggested Readings:  <ul><li>[[A Maximum Entropy Model for Part-Of-Speech Tagging](https://www.aclweb.org/anthology/W96-0213/)] </li></ul> [slides] [HW10]  |
 |  | **machine translation**  | |
