@@ -25,7 +25,6 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 |  | **machine translation**  | |
 | Nov 21 (Th) | *document alignments*  | Suggested Readings:  <ul><li>[[A Program for Aligning Sentences in Bilingual Corpora](http://www.aclweb.org/anthology/J93-1004)]</li></ul> [slides] |
 | Nov 26 (Tu), Dec 3 (Tu) | *word alignments*  | Suggested Readings:  <ul><li>[[The Mathematics of Statistical Machine Translation](http://www.aclweb.org/anthology/J93-2003)]</li></ul> [slides] [HW11]   |
-
 | Dec 5 (Th) | **recap2** |[slides] |
 
 No class on Nov 28 (Th), thanksgiving day
