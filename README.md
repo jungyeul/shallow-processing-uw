@@ -22,10 +22,10 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | Nov 7 (Th) | *mallet* | Suggested Readings:  <ul><li>[[MAchine Learning for LanguagE Toolkit](http://mallet.cs.umass.edu)]</li> </ul> [[slides](https://www.overleaf.com/read/cvnjvbbhcqvx)] [[HW7](https://www.overleaf.com/read/byfyydbwdsvw), due Nov 19]  |
 | Nov 12, 14 | *hmm pos tagging* | Suggested Readings:  <ul><li>[[A Tutorial on HMMs](https://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf)]</li><li>[[TnT - Statistical Part-of-Speech Tagging](http://www.coli.uni-saarland.de/~thorsten/tnt/)]</li></ul> [[slides](https://www.overleaf.com/read/nyjhykdtjrvg)] [[HW8](https://www.overleaf.com/read/nhhxkkgpvcnr), due Nov 26] [[HW9](https://www.overleaf.com/read/ctzrmzfxzkjy), due Dec 3]  |
 | Nov 19 (Tu) | |  canceled |
-| Nov 21 (Th)  | *maxent pos tagging* | Suggested Readings:  <ul><li>[[A Maximum Entropy Model for Part-Of-Speech Tagging](https://www.aclweb.org/anthology/W96-0213/)] </li> <li>[[A Maximum Entropy Approach to Natural Language Processing](https://www.aclweb.org/anthology/J96-1002.pdf)]</li> </ul> [[slides](https://www.overleaf.com/read/psccxhsnbnmt)] [[HW10](https://www.overleaf.com/read/rytsmmmmfhzy), due Dec 10]  |
+| Nov 21, 26  | *maxent pos tagging* | Suggested Readings:  <ul><li>[[A Maximum Entropy Model for Part-Of-Speech Tagging](https://www.aclweb.org/anthology/W96-0213/)] </li> <li>[[A Maximum Entropy Approach to Natural Language Processing](https://www.aclweb.org/anthology/J96-1002.pdf)]</li> </ul> [[slides](https://www.overleaf.com/read/psccxhsnbnmt)] [[HW10](https://www.overleaf.com/read/rytsmmmmfhzy), due Dec 10]  |
 |  | **machine translation**  | |
-| Nov   | *document alignments*  | Suggested Readings:  <ul><li>[[A Program for Aligning Sentences in Bilingual Corpora](http://www.aclweb.org/anthology/J93-1004)]</li></ul> [slides] |
-| Nov Dec | *word alignments*  | Suggested Readings:  <ul><li>[[The Mathematics of Statistical Machine Translation](http://www.aclweb.org/anthology/J93-2003)]</li></ul> [slides] [HW11, due Dec 10 (extra)]   |
+| Dec 3 (Tu)   | *document alignments*  | Suggested Readings:  <ul><li>[[A Program for Aligning Sentences in Bilingual Corpora](http://www.aclweb.org/anthology/J93-1004)]</li></ul> [slides] |
+| Dec 4 (Wed) | *word alignments*  | Suggested Readings:  <ul><li>[[The Mathematics of Statistical Machine Translation](http://www.aclweb.org/anthology/J93-2003)]</li></ul> [slides] [HW11, due Dec 10 (extra)]   |
 | Dec 5 (Th) | **recap2** |[slides] |
 
 No class on Nov 28 (Th), thanksgiving day
