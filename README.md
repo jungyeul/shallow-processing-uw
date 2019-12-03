@@ -24,7 +24,7 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | Nov 19 (Tu) | |  canceled |
 | Nov 21, 26  | *maxent pos tagging* | Suggested Readings:  <ul><li>[[A Maximum Entropy Model for Part-Of-Speech Tagging](https://www.aclweb.org/anthology/W96-0213/)] </li> <li>[[A Maximum Entropy Approach to Natural Language Processing](https://www.aclweb.org/anthology/J96-1002.pdf)]</li> </ul> [[slides](https://www.overleaf.com/read/psccxhsnbnmt)] [[HW10](https://www.overleaf.com/read/rytsmmmmfhzy), due Dec 10]  |
 |  | **machine translation**  | |
-| Dec 3-4    | *document alignments & word alignments*  | Suggested Readings:  <ul><li>[[A Program for Aligning Sentences in Bilingual Corpora](http://www.aclweb.org/anthology/J93-1004)]</li><li>[[The Mathematics of Statistical Machine Translation](http://www.aclweb.org/anthology/J93-2003)]</li></ul> [slides] [HW11, due Dec 10 (extra)] |
+| Dec 3-4    | *document alignments & word alignments*  | Suggested Readings:  <ul><li>[[A Program for Aligning Sentences in Bilingual Corpora](http://www.aclweb.org/anthology/J93-1004)]</li><li>[[The Mathematics of Statistical Machine Translation](http://www.aclweb.org/anthology/J93-2003)]</li></ul> [[slides](https://www.overleaf.com/read/xskhtvhthbgc)] [HW11, due Dec 12 (extra)] |
 | Dec 5 (Th) | **recap2** |[slides] |
 
 No class on Nov 28 (Th), thanksgiving day
