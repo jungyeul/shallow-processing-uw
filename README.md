@@ -27,7 +27,9 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | Dec 3-4    | *document alignments & word alignments*  | Suggested Readings:  <ul><li>[[A Program for Aligning Sentences in Bilingual Corpora](http://www.aclweb.org/anthology/J93-1004)]</li><li>[[The Mathematics of Statistical Machine Translation](http://www.aclweb.org/anthology/J93-2003)]</li></ul> [[slides](https://www.overleaf.com/read/xskhtvhthbgc)] [[HW11](https://www.overleaf.com/read/mqhfhxrpsqbr), due Dec 12 (extra)] |
 | Dec 5 (Th) | **recap2** |[slides] |
 
-No class on Nov 28 (Th), thanksgiving day
+No class on Nov 28 (Th), thanksgiving day; 
+
+Dec 4 (Wed), makeup class at 3pm, conference room at 4th floor in GUG. 
 
 
 
