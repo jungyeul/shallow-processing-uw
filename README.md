@@ -6,10 +6,10 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | Date |	Description	 |Course Materials |
 | ------------ | ------------ | ------------  |
 |  |  | [[course policy](https://drive.google.com/open?id=1Q0ddg8ZU0IRxa9HorTTKfnqrfg_KcUpd)] |
-| Jan 6 | **introduction** | [[slides]()]|
+| Jan 6 | **introduction** | [[slides]]|
 |  | **preprocessing**  | |
-|  |  *tokenization*  |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul> [[slides]()] [[HW1|()]
-|  | *sentence boundary detection*   |   Suggested Readings:  <ul><li>[[Sentence Boundary Detection and the Problem with the U.S.](http://aclweb.org/anthology/N/N09/N09-2061.pdf)]</li><li>[[Sentence Boundary Detection: A Long Solved Problem?](http://aclweb.org/anthology/C/C12/C12-2096.pdf)]</li></ul> [[slides]] [[HW2]]|
+|  |  *tokenization*  |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul> [[slides]] [[HW1]] |
+|  | *sentence boundary detection*   |   Suggested Readings:  <ul><li>[[Sentence Boundary Detection and the Problem with the U.S.](http://aclweb.org/anthology/N/N09/N09-2061.pdf)]</li><li>[[Sentence Boundary Detection: A Long Solved Problem?](http://aclweb.org/anthology/C/C12/C12-2096.pdf)]</li></ul> [[slides]] [[HW2]] |
 |  | **morphology**  | |
 | | *automata and transducers* | [[slides]]  |
 |  | *morphological segmentation*  | Suggested Readings:  <ul><li>[[Empirical Methods for Compound Splitting](http://www.aclweb.org/anthology/E03-1076)]</li> <li>[[Morphological Segmentation Inside-Out](https://www.aclweb.org/anthology/D16-1256/)]</li><li>[[Unsupervised Discovery of Morphemes](http://aclweb.org/anthology/W02-0603)]</li></ul> [[slides]] [[HW3]] [[HW4]]  |
@@ -30,4 +30,4 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 1:00-2:00PM on Monday and Wednesday (418A, Guggenheim Hall)
 
 ## TA
-
+tbd
