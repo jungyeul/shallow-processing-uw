@@ -26,14 +26,9 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | Dec 3-4    | *document alignments & word alignments*  | Suggested Readings:  <ul><li>[[A Program for Aligning Sentences in Bilingual Corpora](http://www.aclweb.org/anthology/J93-1004)]</li><li>[[The Mathematics of Statistical Machine Translation](http://www.aclweb.org/anthology/J93-2003)]</li></ul> [[slides]] [[HW11]] |
 | Dec 5 (Th) | **recap2** |[[slides]] |
 
-No class on Nov 28 (Th), thanksgiving day; 
-
-Dec 4 (Wed), makeup class at 3pm, conference room at 4th floor in GUG. 
-
-
 
 ## office-hours
-2:30-3:30PM on Tuesday and Thursday (418A, Guggenheim Hall)
+1:00-2:00PM on Monday and Wednesday (418A, Guggenheim Hall)
 
 ## TA
-Ajda Gokcen, *ajdag _at_ uw.edu*
+
