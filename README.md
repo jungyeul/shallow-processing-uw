@@ -7,7 +7,7 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | ------------ | ------------ | ------------  |
 |  |  | [[syllabus & course policy](https://www.overleaf.com/read/xvnxwrgqrpzt)] |
 |  | **preprocessing**  | |
-|  |  *tokenization*  |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul> [[slides](https://www.overleaf.com/read/jdgvkvxxhvbx)] [[HW1]] |
+| Jan 6 |  *tokenization*  |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul> [[slides](https://www.overleaf.com/read/jdgvkvxxhvbx)] [[HW1](https://www.overleaf.com/read/zvhzvbsfbbtf)] |
 |  | *sentence boundary detection*   |   Suggested Readings:  <ul><li>[[Sentence Boundary Detection and the Problem with the U.S.](http://aclweb.org/anthology/N/N09/N09-2061.pdf)]</li><li>[[Sentence Boundary Detection: A Long Solved Problem?](http://aclweb.org/anthology/C/C12/C12-2096.pdf)]</li></ul> [[slides]] [[HW2]] |
 |  | **morphology**  | |
 | | *automata and transducers* | [[slides]]  |
