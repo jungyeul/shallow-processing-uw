@@ -26,7 +26,7 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 |  | **recap2** |[[slides]] |
 
 ## office-hours
-1:30-2:30PM on Monday and Wednesday (418A, Guggenheim Hall). Otherwise, upon appointment. To schedule an appointment, please send an email. 
+1:30-2:30PM on Monday and Wednesday (418A, Guggenheim Hall). Otherwise, upon appointment. To schedule an appointment, please send me an email. 
 
 ## TA
 Isaac Manrique imanriq _at_ uw.edu
