@@ -12,9 +12,8 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 |  | **morphology**  | |
 | 15 | *automata and transducers* | [[slides](https://www.overleaf.com/read/kqmymgpdjkfq)]  |
 | 22-30 | *morphological segmentation*  | Suggested Readings:  <ul><li>[[Empirical Methods for Compound Splitting](http://www.aclweb.org/anthology/E03-1076)]</li> <li>[[Morphological Segmentation Inside-Out](https://www.aclweb.org/anthology/D16-1256/)]</li><li>[[Unsupervised Discovery of Morphemes](http://aclweb.org/anthology/W02-0603)]</li></ul> [[slides](https://www.overleaf.com/read/jmwnfdnknbjc)] [[*aktionsplan*](https://www.overleaf.com/read/sctybppbmtqt)] [[HW3](https://www.overleaf.com/read/kfgjbcvbfxmq)] [[HW3+](https://www.overleaf.com/read/wtzvfqwvtbfw)]  |
-|  | *morphological paradigm* | Suggested Readings:  <ul><li>[[Supervised Learning of Complete Morphological Paradigms](https://www.aclweb.org/anthology/N13-1138)]</li></ul> [[slides](https://www.overleaf.com/read/ssxrfqdqbybg)] [[HW4](https://www.overleaf.com/read/cxtrwcqwjdjy)] |
-|  | **recap 1** | [[slides]]|
-|  | **language models** |  [[slides]] [[HW5]] [[HW5 explained]]|
+| Feb 3 | *morphological paradigm* | Suggested Readings:  <ul><li>[[Supervised Learning of Complete Morphological Paradigms](https://www.aclweb.org/anthology/N13-1138)]</li></ul> [[slides](https://www.overleaf.com/read/ssxrfqdqbybg)] [[HW4](https://www.overleaf.com/read/cxtrwcqwjdjy)] |
+|  | **language models** |  [[slides](https://www.overleaf.com/read/zhyvywqkmfpw)] [[HW5]] [[HW5 explained]]|
 |  | **pos tagging & sequence labeling algorithms**  | |
 |  | *morphosyntax tasks in nlp* |  Suggested Readings:  <ul><li>[[Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf), Chap.8 in SLP (3rd ed.)]</li>  <li>[[Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/), CoNLL-2000 Shared Task]</li> <li>[[Language-Independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/), CoNLL-2003 Shared Task]</li><li>[[Semantic Role Labeling](http://www.lsi.upc.edu/~srlconll/), CoNLL-2004 and CoNLL-2005 Shared Tasks]</li> </ul> [[slides]] |
 |  | *classification* | [[slides]]  |
