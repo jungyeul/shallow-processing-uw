@@ -16,7 +16,7 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | 5-10 | **language models** |  [[slides](https://www.overleaf.com/read/zhyvywqkmfpw)] [[HW5](https://www.overleaf.com/read/npkzqnzjtscg)] |
 |  | **pos tagging & sequence labeling algorithms**  | |
 | 10 | *morphosyntax tasks in nlp* |  Suggested Readings:  <ul><li>[[Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf), Chap.8 in SLP (3rd ed.)]</li>  <li>[[Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/), CoNLL-2000 Shared Task]</li> <li>[[Language-Independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/), CoNLL-2003 Shared Task]</li><li>[[Semantic Role Labeling](http://www.lsi.upc.edu/~srlconll/), CoNLL-2004 and CoNLL-2005 Shared Tasks]</li> </ul> [[slides](https://www.overleaf.com/read/fywzsvzvwvff)] |
-| 12 | *classification* | [[slides]]  |
+| 12 | *classification* | [[slides](https://www.overleaf.com/read/fgbfgqsptddd)]  |
 | 19 | *mallet* | Suggested Readings:  <ul><li>[[MAchine Learning for LanguagE Toolkit](http://mallet.cs.umass.edu)]</li> </ul> [[slides]] [[HW6]]  |
 |  | *hmm pos tagging* | Suggested Readings:  <ul><li>[[A Tutorial on HMMs](https://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf)]</li><li>[[TnT - Statistical Part-of-Speech Tagging](http://www.coli.uni-saarland.de/~thorsten/tnt/)]</li></ul> [[slides]] [[HW7]] [[HW8]]  |
 |   | *maxent pos tagging* | Suggested Readings:  <ul><li>[[A Maximum Entropy Model for Part-Of-Speech Tagging](https://www.aclweb.org/anthology/W96-0213/)] </li> <li>[[A Maximum Entropy Approach to Natural Language Processing](https://www.aclweb.org/anthology/J96-1002.pdf)]</li> </ul> [[slides]] [[HW9]]  |
