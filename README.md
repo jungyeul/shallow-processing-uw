@@ -21,7 +21,7 @@ https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overle
 | 24- | *hmm pos tagging* | Suggested Readings:  <ul><li>[[A Tutorial on HMMs](https://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf)]</li><li>[[TnT - Statistical Part-of-Speech Tagging](http://www.coli.uni-saarland.de/~thorsten/tnt/)]</li></ul> [[slides](https://www.overleaf.com/read/nyjhykdtjrvg)] [[HW7](https://www.overleaf.com/read/nhhxkkgpvcnr)] [[HW8](https://www.overleaf.com/read/ctzrmzfxzkjy)]  |
 |   | *maxent pos tagging* | Suggested Readings:  <ul><li>[[A Maximum Entropy Model for Part-Of-Speech Tagging](https://www.aclweb.org/anthology/W96-0213/)] </li> <li>[[A Maximum Entropy Approach to Natural Language Processing](https://www.aclweb.org/anthology/J96-1002.pdf)]</li> </ul> [[slides](https://www.overleaf.com/read/psccxhsnbnmt)] [[HW9](https://www.overleaf.com/read/rytsmmmmfhzy)]  |
 |  | **machine translation**  | |
-|     | *document alignments & word alignments*  | Suggested Readings:  <ul><li>[[A Program for Aligning Sentences in Bilingual Corpora](http://www.aclweb.org/anthology/J93-1004)]</li><li>[[The Mathematics of Statistical Machine Translation](http://www.aclweb.org/anthology/J93-2003)]</li></ul> [[slides]] [[HW10]] |
+|     | *document alignments & word alignments*  | Suggested Readings:  <ul><li>[[A Program for Aligning Sentences in Bilingual Corpora](http://www.aclweb.org/anthology/J93-1004)]</li><li>[[The Mathematics of Statistical Machine Translation](http://www.aclweb.org/anthology/J93-2003)]</li></ul> [[slides](https://www.overleaf.com/read/xskhtvhthbgc)] [[HW10](https://www.overleaf.com/read/mqhfhxrpsqbr)] |
 |  | **recap2** |[[slides]] |
 
 ## office-hours
