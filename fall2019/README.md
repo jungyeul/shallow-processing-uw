@@ -1,4 +1,4 @@
-# UW LIN570 (Fall 2019), shallow processing 
+# UW LIN570 (Fall 2019), Shallow Processing Techniques for Natural Language Processing 
 
 https://github.com/jungyeul/shallow-processing-uw [[Syllabus](https://www.overleaf.com/read/xvnxwrgqrpzt)]
 
